@@ -1,6 +1,6 @@
 # PhoneVerse
 
-**浏览器里的沉浸式 AI 手机模拟器**  （幸福家庭模拟器？）总之还没弄完，，，
+**浏览器里的沉浸式 AI 手机模拟器**  （幸福家庭模拟器？）总之还没弄完
 解锁 · 打开应用 · 和角色真正聊起来
 
 ![version](https://img.shields.io/badge/version-v0.2-0ea5e9?style=flat-square)
@@ -134,7 +134,6 @@ npm run build   # 生产构建
 | AI | DeepSeek（OpenAI 兼容）；密钥仅进本机 BFF 内存 |
 | 人设 | 前端编辑 → `personas/*.json` 落盘，启动可回同步 |
 
-设计灵感来自现代手机系统，但使用自有视觉与图标，不复刻受保护的系统外观。
 
 ---
 
@@ -182,7 +181,7 @@ AIchat/
 
 ## 🤝 贡献
 
-欢迎 Issue / PR。提交前建议跑一遍：
+欢迎 Issue / PR
 
 ```bash
 npm run lint && npm run test && npm run build
@@ -192,7 +191,7 @@ npm run lint && npm run test && npm run build
 
 ## 📄 License
 
-个人演示 / 学习项目。代码可自由查看、运行与修改；若正式对外开源，建议自行补充 `LICENSE` 文件。
+个人演示 / 学习项目。代码可自由查看、运行与修改
 
 
 ---
