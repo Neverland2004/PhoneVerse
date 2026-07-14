@@ -1,6 +1,6 @@
 # PhoneVerse
 
-**浏览器里的沉浸式 AI 手机模拟器**  
+**浏览器里的沉浸式 AI 手机模拟器**  （幸福家庭模拟器？）总之还没弄完，，，
 解锁 · 打开应用 · 和角色真正聊起来
 
 ![version](https://img.shields.io/badge/version-v0.2-0ea5e9?style=flat-square)
@@ -194,11 +194,6 @@ npm run lint && npm run test && npm run build
 
 个人演示 / 学习项目。代码可自由查看、运行与修改；若正式对外开源，建议自行补充 `LICENSE` 文件。
 
-上传 GitHub 前请再确认：
-
-- [ ] `.env` 未加入版本库（尤其是 API Key）
-- [ ] `personas/*.json` 里没有不想公开的私密 / 成人向人设（有的话先改成演示版再推）
-- [ ] `docs/screenshots/` 已随仓库一起提交（README 依赖这些图）
 
 ---
 
